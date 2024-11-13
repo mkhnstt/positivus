@@ -392,7 +392,7 @@ ul {
   width: 1240px;
   height: 753px;
   background-color: #f3f3f3;
-  background-image: url(/image/Illustration-contact.png);
+  background-image: url(../image/Illustration-contact.png);
   background-repeat: no-repeat;
   background-position: 160% 50%;
   border-radius: 45px;
@@ -454,7 +454,7 @@ ul {
 .radiobutton input:checked + label::before {
   border-color: #000;
   background-color: #fff;
-  background-image: url(image/Ellipse.png);
+  background-image: url(../image/Ellipse.png);
 }
 .radiobutton label {
   margin-right: 35px;
@@ -714,7 +714,7 @@ address p:last-of-type {
   border: 1px solid #191a23;
   border-radius: 50%;
   background-color: #fff;
-  background-image: url(/image/arrow_strait.svg);
+  background-image: url(../image/arrow_strait.svg);
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
@@ -723,12 +723,12 @@ address p:last-of-type {
 
 .up-button:hover {
   border-color: #518e07;
-  background-image: url(/image/arrow_strait_green.svg);
+  background-image: url(../image/arrow_strait_green.svg);
 }
 
 .up-button:active {
   border-color: #292a32;
-  background-image: url(/image/arrow_strait.svg);
+  background-image: url(../image/arrow_strait.svg);
 }
 
 .visually-hidden {
