@@ -454,7 +454,7 @@ ul {
 .radiobutton input:checked + label::before {
   border-color: #000;
   background-color: #fff;
-  background-image: url(/image/Ellipse.png);
+  background-image: url(image/Ellipse.png);
 }
 .radiobutton label {
   margin-right: 35px;
